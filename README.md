@@ -9,7 +9,7 @@
 
 <table align="left">
   <tr>
-    <td>
+    <td align="center" width="96">
       <a href="https://laravel.com" target="_new">
         <img src="https://laravel.com/img/logomark.min.svg" width="48" height="48" alt="Laravel"/>
       </a>
