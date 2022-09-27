@@ -9,6 +9,13 @@
 
 <table align="left">
   <tr>
+    <td>
+      <a href="https://laravel.com" target="_new">
+        <img src="https://laravel.com/img/logomark.min.svg" width="48" height="48" alt="Laravel"/>
+      </a>
+      <br/>
+      Laravel
+    </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
